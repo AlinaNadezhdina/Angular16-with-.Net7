@@ -1,6 +1,6 @@
 # Angular 16 CRUD with .NET 7 Web API using Entity Framework Core
 
-## This is my first app with suh instruments as angular and bootstrap and mssql server. 
+## This is my first app with suсh instruments as angular and bootstrap and mssql server. 
 Because of I did it on macOs I need to put mssql in a docker container. Here are the steps for this in termiinal:
 
 * Download docker
